@@ -1,0 +1,2 @@
+#!/bin/bash
+java Assignment2 $1 > $2
